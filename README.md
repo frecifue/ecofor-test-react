@@ -1,4 +1,8 @@
-## Desafio Tecnico - Flight Tracker
+## Desafio Técnico - Flight Tracker
+
+## Instalación
+- clona el repositorio
+- npm install
 
 ## Importante
 
